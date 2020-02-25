@@ -1,0 +1,8 @@
+first,last,handle
+element,length (characters),unit
+temperature,3,K
+humidity,2,%
+wind speed,4,m/s
+wind direction,2,°
+temperature (K),humidity (%),wind speed (m/s)
+296,85,10.3
